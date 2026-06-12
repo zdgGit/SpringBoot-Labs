@@ -11,7 +11,7 @@
     <modules>
 
         <!-- Spring Boot 示例 -->
-<!--        <module>lab-01-spring-security</module>-->
+        <module>lab-01-spring-security</module>
 <!--        <module>lab-02-spring-security-oauth</module>-->
 <!--        <module>lab-03-kafka</module>-->
 <!--        <module>lab-04-rabbitmq</module>-->
@@ -112,7 +112,7 @@
 <!--        <module>labx-28</module>-->
 <!--        <module>labx-29-spring-cloud-consul-bus</module>-->
 <!--        <module>labx-30-spring-cloud-grpc</module>-->
-        <module>lab-72-minio</module>
+<!--        <module>lab-72-minio</module>-->
     </modules>
 
 </project>
